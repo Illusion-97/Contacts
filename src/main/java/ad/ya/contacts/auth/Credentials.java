@@ -1,4 +1,4 @@
-package ad.ya.restaurants.auth;
+package ad.ya.contacts.auth;
 
 
 public record Credentials(String email, String password) {

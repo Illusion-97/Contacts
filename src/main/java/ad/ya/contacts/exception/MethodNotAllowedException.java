@@ -1,4 +1,4 @@
-package ad.ya.restaurants.exception;
+package ad.ya.contacts.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

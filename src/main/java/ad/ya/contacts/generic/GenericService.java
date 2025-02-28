@@ -1,4 +1,4 @@
-package ad.ya.restaurants.generic;
+package ad.ya.contacts.generic;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

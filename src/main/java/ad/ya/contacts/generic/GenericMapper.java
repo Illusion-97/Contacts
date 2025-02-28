@@ -1,4 +1,4 @@
-package ad.ya.restaurants.generic;
+package ad.ya.contacts.generic;
 
 public interface GenericMapper<D extends BaseDto,E extends BaseEntity> {
 

@@ -1,7 +1,6 @@
-package ad.ya.restaurants.auth;
+package ad.ya.contacts.auth;
 
-import ad.ya.restaurants.generic.BaseDto;
-import ad.ya.restaurants.users.Role;
+import ad.ya.contacts.generic.BaseDto;
 import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
@@ -19,6 +18,6 @@ public class AuthResponse {
     public static class UserDto extends BaseDto {
         private String pseudo;
         private String email;
-        private Role role;
+        private String role;
     }
 }

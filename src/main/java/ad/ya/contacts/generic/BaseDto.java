@@ -1,4 +1,4 @@
-package ad.ya.restaurants.generic;
+package ad.ya.contacts.generic;
 
 import lombok.Data;
 import lombok.experimental.Accessors;

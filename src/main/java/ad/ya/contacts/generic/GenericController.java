@@ -1,4 +1,4 @@
-package ad.ya.restaurants.generic;
+package ad.ya.contacts.generic;
 
 import lombok.AllArgsConstructor;
 import org.springframework.data.domain.Page;

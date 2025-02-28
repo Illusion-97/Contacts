@@ -1,4 +1,4 @@
-package ad.ya.restaurants.tools;
+package ad.ya.contacts.tools;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
